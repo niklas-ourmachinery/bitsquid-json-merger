@@ -1,0 +1,9 @@
+syntax: glob
+
+.svn
+bin
+obj
+
+*.cache
+*.suo
+*.user
